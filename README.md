@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hey there, I'm JoshX ✌️️️
+I'm a Software Developer 👨🏼‍💻 building next gen solutions, I mean Amazon, Google...just kidding.
 
-<!--
-**JCalmCrasher/JCalmCrasher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been talking to my computer 💻 for some time(since 2015).
 
-Here are some ideas to get you started:
+I currently work as a Web Dev, building performant softwares. I [write](https://hashnode.com/@joshdev) too.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also obsessed about knowledge, always trying to learn somethin' new and try to help people any way I can.
+
+I'm currently testing the waters on open-sourcing (heard it's cool yea 😉) and tryin to overcome [Impostor Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome).
+
+[![JoshX's github stats](https://github-readme-stats.vercel.app/api?username=jcalmcrasher)](https://github.com/jcalmcrasher/github-readme-stats)
+
+### I talk to my computer in:
+- PHP
+- JS
+- C#
+- Python
+
+### Currently learning 📖
+- TypeScript
+- React
+
+### Some Hobbies won't hurt right 😎
+- Chess (catch me on [chess.com](https://www.chess.com/member/joshxtreme))
+- Reading
+- I make beats too
+
+## What I'm Working On ✍️
+- Putting myself out there, you know the likes of Twitter, Instagram
+ - My Portfolio
+ - Some other cool stuff (I'll let you know when I'm done 🤓)
+
+BTW, I'm open for some collaboration too 🤝.
