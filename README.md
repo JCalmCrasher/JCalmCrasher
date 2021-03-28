@@ -9,7 +9,7 @@ I'm also obsessed about knowledge, always trying to learn somethin' new and try 
 
 I'm currently testing the waters on open-sourcing (heard it's cool yea 😉) and tryin to overcome [Impostor Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome).
 
-[![JoshX's github stats](https://github-readme-stats.vercel.app/api?username=jcalmcrasher)](https://github.com/jcalmcrasher/github-readme-stats)
+[![JoshX's github stats](https://github-readme-stats.vercel.app/api?username=jcalmcrasher&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/jcalmcrasher/github-readme-stats)
 
 ### I talk to my computer in:
 - PHP
