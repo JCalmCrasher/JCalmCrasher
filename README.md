@@ -11,7 +11,7 @@ I'm currently testing the waters on open-sourcing (heard it's cool yea 😉) and
 
 [![JoshX's github stats](https://github-readme-stats.vercel.app/api?username=jcalmcrasher&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/jcalmcrasher/github-readme-stats)
 
-### I talk to my computer in:
+### I talk to my computer in 🌐
 - PHP
 - JS
 - C#
