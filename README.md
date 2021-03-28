@@ -31,4 +31,4 @@ I'm currently testing the waters on open-sourcing (heard it's cool yea 😉) and
  - My Portfolio
  - Some other cool stuff (I'll let you know when I'm done 🤓)
 
-BTW, I'm open for some collaboration too 🤝.
+BTW, I'm open for some collaboration too 🤝
