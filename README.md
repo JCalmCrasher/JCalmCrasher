@@ -1,7 +1,7 @@
 ## Hey there, I'm JoshX ✌️️️
 I'm a Software Developer 👨🏼‍💻 building next gen solutions, I mean Amazon, Google...just kidding 🌒.
 
-I've been talking to my computer 💻 for some time(since 2015).
+I've been talking to my computer 💻 for some time(Since 2015).
 
 I currently work as a Web Dev, building performant softwares. I [write](https://hashnode.com/@joshdev) too.
 
