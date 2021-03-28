@@ -26,7 +26,7 @@ I'm currently testing the waters on open-sourcing (heard it's cool yea 😉) and
 - Reading
 - I make beats too
 
-## What I'm Working On ✍️
+## Currently Working On ✍️
 - Putting myself out there, you know the likes of Twitter, Instagram
  - My Portfolio
  - Some other cool stuff (I'll let you know when I'm done 🤓)
