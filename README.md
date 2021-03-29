@@ -24,7 +24,7 @@ I'm currently testing the waters on open-sourcing (heard it's cool yea 😉) and
 ### Some Hobbies won't hurt right 😎
 - Chess (catch me on [chess.com](https://www.chess.com/member/joshxtreme))
 - Reading
-- I make beats too
+- I enjoy making beats 🎶 too
 
 ## Currently Working On ✍️
 - Putting myself out there, you know the likes of Twitter, Instagram
