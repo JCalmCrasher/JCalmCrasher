@@ -13,9 +13,7 @@ I'm currently testing the waters on open-sourcing (heard it's cool yea 😉) and
 
 ### I talk to my computer in 🌐
 - PHP
-- JS
-- C#
-- Python
+- JavaScript
 
 ### Currently learning 📖
 - TypeScript
@@ -28,7 +26,7 @@ I'm currently testing the waters on open-sourcing (heard it's cool yea 😉) and
 
 ## Currently Working On ✍️
 - Putting myself out there, you know the likes of Twitter, Instagram
- - My Portfolio
- - Some other cool stuff (I'll let you know when I'm done 🤓)
+- My Portfolio
+- Some other cool stuff (I'll let you know when I'm done 🤓)
 
 BTW, I'm up for some collaboration too 🤝
