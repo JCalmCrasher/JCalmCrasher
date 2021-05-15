@@ -15,6 +15,13 @@ I'm currently testing the waters on open-sourcing (heard it's cool yea 😉) and
 - PHP
 - JavaScript
 
+### Frameworks ⚙️
+- Laravel
+- Vue
+- React
+- Nuxt
+- Tailwind
+
 ### Currently learning 📖
 - TypeScript
 - React
