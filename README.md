@@ -27,7 +27,7 @@ I'm currently testing the waters on open-sourcing (heard it's cool yea 😉) and
 - React
 
 ### Some Hobbies won't hurt right 😎
-- Chess (catch me on [chess.com](https://www.chess.com/member/joshxtreme))
+- Chess - Rating: 1463 (catch me on [chess.com](https://www.chess.com/member/joshxtreme))
 - Reading
 - I enjoy making beats 🎶 too
 
@@ -36,4 +36,4 @@ I'm currently testing the waters on open-sourcing (heard it's cool yea 😉) and
 - My Portfolio
 - Some other cool stuff (I'll let you know when I'm done 🤓)
 
-BTW, I'm up for some collaboration too 🤝
+BTW, I'm up for some [collaboration] (mailto:joshua.osagie01@gmail.com) too 🤝
