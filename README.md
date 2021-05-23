@@ -36,4 +36,4 @@ I'm currently testing the waters on open-sourcing (heard it's cool yea 😉) and
 - My Portfolio
 - Some other cool stuff (I'll let you know when I'm done 🤓)
 
-BTW, I'm up for some [collaboration](joshua.osagie01@gmail.com) too 🤝
+BTW, I'm up for some [collaboration](mailto:joshua.osagie01@gmail.com) too 🤝
