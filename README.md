@@ -1,5 +1,5 @@
 ## Hey there, I'm JoshX ✌️️️
-I'm a Software Developer 👨🏼‍💻 building next gen solutions, I mean Amazon, Google...just kidding 🌒.
+I'm a Software Developer 👨🏼‍💻 building next gen solutions, I mean Amazon, Google...*[just kidding]* 🌒.
 
 I've been talking to my computer 💻 for some time(Since 2015).
 
