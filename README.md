@@ -12,6 +12,7 @@ I'm currently testing the waters on open-sourcing (heard it's cool yea 😉) and
 [![JoshX's github stats](https://github-readme-stats.vercel.app/api?username=jcalmcrasher&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/jcalmcrasher/github-readme-stats)
 
 ### Languages 🚀
+![](https://res.cloudinary.com/dingyaqyp/image/upload/v1627093691/intro-to-vuex/flow_hczycz.png)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
