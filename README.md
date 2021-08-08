@@ -3,7 +3,7 @@ I'm a Software Developer 👨🏼‍💻 building next gen solutions, I mean Ama
 
 I've been talking to my computer 💻 for some time(Since 2015).
 
-I currently work as a Web Dev, building performant softwares. I [write](https://hashnode.com/@joshdev) too.
+I currently work as a Web Dev, using state-of-the-art tools to build performant apps. I [write](https://hashnode.com/@joshdev) too.
 
 I'm also obsessed about knowledge, always trying to learn somethin' new and try to help people any way I can.
 
