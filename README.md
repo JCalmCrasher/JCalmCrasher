@@ -1,6 +1,6 @@
 ## Hey there, I'm JoshX ✌️️️
 
-<p style="font-family: monospace">Before you is a human that has an obsession for knowledge. I love building, writing and slamming those keys till something works.</p>
+<p style="font-family: monospace">Before you is a human with an obsession for knowledge. I love building, writing and slamming those keys till something works.</p>
 
 <p style="margin-top:10px; font-family: monospace">I believe humans are only limited by themselves, there's no thought/idea thinkable that cannot be achieved ✨</p>
 
