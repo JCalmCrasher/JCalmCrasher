@@ -1,6 +1,6 @@
 ### Hey there, I'm JoshX ✌️️️
 
-Keyboard Hacker 💻 | Blue Moon Writer ✍️
+Software Dev | Keyboard Hacker 💻 | Blue Moon Writer ✍️
 
 Before you is a human with an obsession for knowledge. I believe humans are only limited by themselves <i>there's no thought/idea thinkable that cannot be achieved ✨</i>
 
