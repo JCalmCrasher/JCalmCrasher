@@ -1,3 +1,3 @@
 ### Hey there, I'm JoshX ✌️️️
 
-Software Dev | Keyboard Hacker 💻 | Blue Moon Writer ✍️ | 
+Software Dev | Keyboard Hacker 💻 | Blue Moon Writer ✍️
