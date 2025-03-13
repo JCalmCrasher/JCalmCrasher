@@ -4,6 +4,6 @@ I'm a passionate frontend engineer with over 5+ years of experience crafting per
 
 🔹 Currently Exploring: NestJS for backend development & Web3 technologies
 
-🔹 Building: A Nigerian location data API & a Freepik-style AI-powered web app
+🔹 Cooking: A Nigerian location data API & other stuff in my free time
 
 🔹 Open to Collaboration: Frontend projects, Web3, and creative coding
